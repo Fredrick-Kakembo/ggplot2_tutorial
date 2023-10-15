@@ -10,9 +10,9 @@ title: "Visualizing tabular data with ggplot2"
 
 # Visualizing data with ggplot2
 
-In this session we will focus our attention on the popular **ggplot2** package
-for visualizing tabular data and will be learning how to create various
-different kinds of plot.
+This repository will focus on the popular **ggplot2** package
+for visualizing tabular data and will demonstrate how to create various
+different kinds of plot and the different syntax for ggplot.
 
 # Download the data
 
